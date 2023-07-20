@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Munir
+- 👋 Hi, people may know me as Munir
 - 👀 I do find playing and learning CTF give benefits for me.
 - 🌱 I’m still in learning process. So don't be afraid to argue with me :)
 
